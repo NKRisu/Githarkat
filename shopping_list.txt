@@ -2,8 +2,8 @@ mehu
 maito
 kerma
 banaani
-kalja
-viina
+Limu
+viinietikka
 liha
 kana
 kala
@@ -11,3 +11,5 @@ omena
 muro
 sokeri
 suola
+pulla
+sipsi
