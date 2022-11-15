@@ -14,3 +14,4 @@ sokeri
 suola
 pulla
 sipsi
+and i edited this line in git bash/nano.
